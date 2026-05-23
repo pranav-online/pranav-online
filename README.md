@@ -1,23 +1,24 @@
-# Hi, I'm Pranav G 👋
+<h1 align="center">Hi 👋, I'm Pranav G</h1>
 
-🚀 C++ | Full Stack Developer | AI Enthusiast  
-💻 Building scalable web applications & real-time systems  
-🎯 Focused on Software Development, DSA, and AI-powered solutions  
+<h3 align="center">Full Stack Developer | C++ Enthusiast | AI Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;C%2B%2B+Developer;AI+Enthusiast;Problem+Solver&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student at Amrita Vishwa Vidyapeetham
-- 🔥 Currently mastering DSA and problem-solving in C++
-- ⚡ Built real-time chat apps, AI systems, and multiplayer servers
-- 🧠 Interested in Full Stack Development, AI/ML, and System Design
-- ☁️ AWS Cloud & Firebase enthusiast
-- 🚀 Passionate about building impactful real-world applications
+- 💻 Passionate about Full Stack Development & AI
+- 🔥 Currently focused on DSA in C++
+- ⚡ Building real-time web applications and AI-powered systems
+- ☁️ Exploring Cloud and Scalable Backend Systems
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -25,7 +26,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### Web & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,55 +35,53 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Technologies
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 SAM Messenger
-Real-time messaging web app built using Flutter Web and Firebase with authentication, cloud database integration, and responsive UI.
+Real-time messaging application using Firebase with authentication and responsive UI.
 
 ### 🔹 AegisAI – SecurePay
-AI-powered fraud detection system with QSVM-based risk analysis, secure OTP authentication, and real-time transaction dashboard.
+AI-powered fraud detection system with secure authentication and real-time monitoring.
 
-### 🔹 MindBridge – AI Mental Health Chat App
-AI-powered mental health assistant with anonymous authentication, voice interaction, conversational memory, and real-time chat support.
+### 🔹 MindBridge AI Chat App
+AI mental health assistant with voice interaction and conversational memory.
 
 ### 🔹 Multiplayer Game Server
-Real-time multiplayer gaming server built using Haskell and WebSockets featuring Tic-Tac-Toe and Guess the Number.
-
----
-
-## 🏆 Certifications
-
-- AWS Academy Graduate – Cloud Developing
-- AWS Academy Graduate – Cloud Foundations
-- AWS Certified Cloud Practitioner (Practice Exam)
-- Infosys Certified – PHP Web Development
-- Infosys Certified – Machine Learning using Python
-- Infosys Certified – Computer Vision
+Real-time multiplayer games using Haskell and WebSockets.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-online&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-online&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-online&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-online&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pranav-online&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranav-online&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_G-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pranav-gedela)
+<p align="left">
+<a href="https://linkedin.com/in/pranav-gedela" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-Pranav_G-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
 ---
 
-⭐ “Building projects that combine real-world impact with scalable technology.”
+⭐ Building scalable applications and continuously learning new technologies.
