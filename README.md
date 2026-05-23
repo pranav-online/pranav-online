@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav G</h1>
+<h1 align="center">Hi 👋, I'm Gedela Pranav</h1>
 
 <h3 align="center">Full Stack Developer | C++ Enthusiast | AI Explorer</h3>
 
