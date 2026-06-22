@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gedela Pranav</h1>
 
-<h3 align="center">Full Stack Developer | C++ Enthusiast | AI Explorer</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Building Scalable Applications</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;C%2B%2B+Developer;AI+Enthusiast;Problem+Solver&center=true&width=500&height=45">
